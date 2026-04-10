@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AM I ON GIT or what.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for AM I ON GIT or what"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AM I ON GIT or what.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from AM I ON GIT or what"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md",
+                "file": "AM I ON GIT or what.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README.md"
+              "title": "Outline of AM I ON GIT or what"
             }
           },
           {
@@ -207,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "193059a2e9185ce6",
+  "active": "b2dec6356c3be97a",
   "lastOpenFiles": [
-    "AM I ON GIT or what.md",
     "README.md.md",
+    "AM I ON GIT or what.md",
     "Test md.md",
     "Untitled",
     "Welcome.md",
